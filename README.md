@@ -5,17 +5,6 @@
 <img src="./assets/pizza.gif" align="right" 
 style="border-radius:8px;box-shadow:0 10px 15px -3px rgba(0,0,0,0.1),0 4px 6px -2px rgba(0,0,0,0.05);">
 
-## 👩🏻‍💻 Sobre Mim 
-
-<br>
-
-📖 | Sempre aberto a novas tecnologias, para crescer em conhecimento \
-🎓 | Estudante de [JavaScript](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript), Web Design, Marketing Digital \
-🎵 | Músico nas horas vagas 🎸🎹🎤\
-💬 | Inglês técnico, estudando para alcançar a fluência
-
-<br>
-<br>
 
 ## 👥 Me Encontre
 
@@ -26,6 +15,18 @@ Use o tema escuro para ver minhas redes sociais 😉
 <a href="https://linkedin.com/in/mateus-ito"><img src="./assets/redes-sociais/linkedin.svg" width="32px" /></a>
 <a href="https://codepen.io/mateus-ito"><img src="./assets/redes-sociais/codepen.svg" width="32px" /></a>
 <a href="https://instagram.com/mateus_ito_silva/"><img src="./assets/redes-sociais/instagram.svg" width="32px" /></a>
+
+<br>
+<br>
+
+## 👩🏻‍💻 Sobre Mim 
+
+<br>
+
+📖 | Sempre aberto a novas tecnologias, para crescer em conhecimento \
+🎓 | Estudante de [JavaScript](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript), Web Design, Marketing Digital \
+🎵 | Músico nas horas vagas 🎸🎹🎤\
+💬 | Inglês técnico, estudando para alcançar a fluência
 
 <br>
 <br>
