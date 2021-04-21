@@ -39,8 +39,8 @@ const me = new Developer({
     name: 'Mateus Ito',
     skills: {
         frontEnd: {
-            UI: ['Vue', 'Vuex', 'Nuxt'],
-            css: ['Tailwind', 'Bootstrap', 'Vuetify']
+            UI: ['Vue', 'Vuex', 'Nuxt', 'JavaScript'],
+            css: ['Tailwind', 'Bootstrap', 'Vuetify', 'SCSS']
         },
         backEnd: {
             dataBase: ['Firebase'],
