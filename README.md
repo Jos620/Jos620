@@ -1,3 +1,7 @@
+<img src="./assets/GitHub.png">
+
+<br>
+
 # 😁 Olá, me chamo Mateus
 
 <br>
