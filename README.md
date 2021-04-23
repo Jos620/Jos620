@@ -44,7 +44,8 @@ const me = new Developer({
     name: 'Mateus Ito',
     skills: {
         frontEnd: {
-            UI: ['Vue', 'Vuex', 'Nuxt', 'JavaScript'],
+            html: ['HTML5', 'Pug'],
+            js: ['Vue', 'Vuex', 'Nuxt', 'ES6'],
             css: ['Tailwind', 'Bootstrap', 'Vuetify', 'SCSS']
         },
         backEnd: {
