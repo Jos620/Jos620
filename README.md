@@ -28,6 +28,7 @@ Use o tema escuro para ver minhas redes sociais 😉
 <br>
 
 📖 | Sempre aberto a novas tecnologias, para crescer em conhecimento \
+🔗 | Disposto a trabalhar remotamente \
 🎓 | Estudante de [JavaScript](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript), Web Design, Marketing Digital \
 🎵 | Músico nas horas vagas 🎸🎹🎤\
 💬 | Inglês técnico, estudando para alcançar a fluência
@@ -46,11 +47,12 @@ const me = new Developer({
         frontEnd: {
             html: ['HTML5', 'Pug'],
             js: ['Vue', 'Vuex', 'Nuxt', 'ES6'],
-            css: ['Tailwind', 'Bootstrap', 'Vuetify', 'SCSS']
+            css: ['Tailwind', 'Bootstrap', 'Chakra', 'SCSS']
         },
         backEnd: {
             dataBase: ['Firebase'],
-            deploy: ['Vercel', 'Netlify']
+            deploy: ['Vercel', 'Netlify'],
+            headlessCMS: ['Storyblok', 'Prismic']
         }
     }
 })
