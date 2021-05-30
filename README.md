@@ -71,3 +71,43 @@ const me = new Developer({
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jos620&layout=compact&langs_count=8&theme=algolia"/>
     </a>
 </p>
+
+<br>
+<br>
+
+## 📕 Repositórios
+
+<div align="center">
+
+### Todo Ito
+
+(02.02.21 - 03.02.21)
+
+</div>
+
+| JS  | HTML | DataBase |
+| :-: | :--: | :------: |
+| Vue | Pug  | Firebase |
+
+Um pequeno exemplo de uma lista de tarefas feita com Vue e banco de dados.
+
+---
+
+<div align="center">
+
+### <img src="./assets/repos/movue-it-nuxt.png" width="16"> Movue It Nuxt
+
+(05.05.21 - 08.05.21)
+
+</div>
+
+
+|  TS   |  Extra  |   CSS    |
+| :---: | :-----: | :------: |
+| Nuxt  | Cookies | Tailwind |
+| Vue   | Vercel  |          |
+
+
+Um projeto desenvolvido na <a href="https://www.youtube.com/playlist?list=PL6GSB1I1APjqS1ligyQwHeVT0sAOWNkWH">Nuxt Levue Week</a>, por <a href="https://www.youtube.com/c/MaiattoDev">Maiatto Dev</a>. Uma semana de imersão, aonde foi recriado o mesmo projeto desenvolvido na Next Level Week #4, mas usando o Vue com Nuxt.
+
+---
