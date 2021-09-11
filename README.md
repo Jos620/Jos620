@@ -45,14 +45,54 @@ const me = new Developer({
     name: 'Mateus Ito',
     skills: {
         frontEnd: {
-            html: ['HTML5', 'Pug'],
-            js: ['Vue', 'Vuex', 'Nuxt', 'ES6'],
-            css: ['Tailwind', 'Bootstrap', 'Chakra', 'SCSS']
+            // Markup --------------------------------------------------------|
+            html: [
+                // Version
+                'HTML5', 
+
+                // Other
+                'Pug',
+            ],
+
+            // JavaScript ----------------------------------------------------|
+            js: [
+                // Version
+                'ES6', 
+
+                // Frameworks
+                'Vue',
+                'React',
+                'Nuxt', 
+
+                // Other
+                'Vuex', 
+                'Vue Router',
+                'Astro',
+            ],
+
+            ts: [
+                // Version
+                '4.0',
+            ],
+
+            // Style ---------------------------------------------------------|
+            css: [
+                // Version
+                'CSS3',
+                'SCSS',
+ 
+                // Frameworks
+                'Tailwind', 
+                'Bootstrap', 
+                'Windi', 
+                'Chakra', 
+                
+            ]
         },
         backEnd: {
-            dataBase: ['Firebase'],
-            deploy: ['Vercel', 'Netlify'],
-            headlessCMS: ['Storyblok', 'Prismic']
+            fullBackEnd: ['Firebase'],
+            deploy: ['Vercel', 'Netlify', 'Heroku'],
+            headlessCMS: ['Storyblok', 'Prismic', 'Dato']
         }
     }
 })
