@@ -2,7 +2,7 @@
 
 <br>
 
-# 😁 Olá, me chamo Mateus
+# 😁 Hey, this is Mateus!
 
 <br>
 
@@ -10,9 +10,9 @@
 style="border-radius:8px;box-shadow:0 10px 15px -3px rgba(0,0,0,0.1),0 4px 6px -2px rgba(0,0,0,0.05);">
 
 
-## 👥 Me Encontre
+## 👥 Find Me
 
-Use o tema escuro para ver minhas redes sociais 😉
+Use dark theme to see my socials 😉
 
 <br>
 
@@ -23,20 +23,19 @@ Use o tema escuro para ver minhas redes sociais 😉
 <br>
 <br>
 
-## 👩🏻‍💻 Sobre Mim 
+## 👩🏻‍💻 About
 
 <br>
 
-📖 | Sempre aberto a novas tecnologias, para crescer em conhecimento \
-🔗 | Disposto a trabalhar remotamente \
-🎓 | Estudante de [JavaScript](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript), Web Design, Marketing Digital \
-🎵 | Músico nas horas vagas 🎸🎹🎤\
-💬 | Inglês técnico, estudando para alcançar a fluência
+📖 | Aways open to new technologies, ready to learn and improve \
+🎓 | [JavaScript](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript) + [TypeScript](https://www.typescriptlang.org/docs/), Web Design, Marketing Digital \
+🎵 | Musician in the spare time 🎸🎹🎤\
+💬 | Conversational english, training to achieve fluency
 
 <br>
 <br>
 
-## 🌐 Linguagens e Tecnologias
+## 🌐 Languages and Technologies
 
 <br>
 
@@ -45,55 +44,52 @@ const me = new Developer({
     name: 'Mateus Ito',
     skills: {
         frontEnd: {
-            // Markup --------------------------------------------------------|
-            html: [
-                // Version
+            markup: [
                 'HTML5', 
-
-                // Other
-                'Pug',
+                'PUG', 
+                'MarkDown'
             ],
 
-            // JavaScript ----------------------------------------------------|
-            js: [
-                // Version
-                'ES6', 
-
-                // Frameworks
-                'Vue',
-                'React',
-                'Nuxt', 
-
-                // Other
-                'Vuex', 
-                'Vue Router',
-                'Astro',
+            script: [
+                'ES6',
+                'TypeScript',
+                'Dart',
+                'Imba',
             ],
 
-            ts: [
-                // Version
-                '4.0',
-            ],
-
-            // Style ---------------------------------------------------------|
-            css: [
-                // Version
+            style: [
                 'CSS3',
                 'SCSS',
- 
-                // Frameworks
-                'Tailwind', 
-                'Bootstrap', 
-                'Windi', 
-                'Chakra', 
+            ],
+            
+            frameworks: {
+                script: [
+                    'Vue',
+                    'React',
+                    'Svelte',
+                    'Astro',
+                ],
                 
-            ]
+                style: [
+                    'Tailwind',
+                    'Bootstrap',
+                ],
+            },
         },
+
         backEnd: {
-            fullBackEnd: ['Firebase'],
-            deploy: ['Vercel', 'Netlify', 'Heroku'],
-            headlessCMS: ['Storyblok', 'Prismic', 'Dato']
-        }
+            script: [
+                'Python',
+                'TypeScript',
+                'Dart',
+            ],
+            
+            tools: [
+                'Firebase'
+            ],
+        },
+
+        headlessCMS: ['Storyblok', 'Prismic', 'Dato'],
     }
 })
 ```
@@ -114,40 +110,3 @@ const me = new Developer({
 
 <br>
 <br>
-
-## 📕 Repositórios
-
-<div align="center">
-
-### Todo Ito
-
-(02.02.21 - 03.02.21)
-
-</div>
-
-| JS  | HTML | DataBase |
-| :-: | :--: | :------: |
-| Vue | Pug  | Firebase |
-
-Um pequeno exemplo de uma lista de tarefas feita com Vue e banco de dados.
-
----
-
-<div align="center">
-
-### <img src="./assets/repos/movue-it-nuxt.png" width="16"> Movue It Nuxt
-
-(05.05.21 - 08.05.21)
-
-</div>
-
-
-|  TS   |  Extra  |   CSS    |
-| :---: | :-----: | :------: |
-| Nuxt  | Cookies | Tailwind |
-| Vue   | Vercel  |          |
-
-
-Um projeto desenvolvido na <a href="https://www.youtube.com/playlist?list=PL6GSB1I1APjqS1ligyQwHeVT0sAOWNkWH">Nuxt Levue Week</a>, por <a href="https://www.youtube.com/c/MaiattoDev">Maiatto Dev</a>. Uma semana de imersão, aonde foi recriado o mesmo projeto desenvolvido na Next Level Week #4, mas usando o Vue com Nuxt.
-
----
