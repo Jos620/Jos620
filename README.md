@@ -1,14 +1,6 @@
-<img src="./assets/GitHub.png">
-
-<br>
-
 # 😁 Hey, this is Mateus!
 
 <br>
-
-<img src="./assets/pizza.gif" align="right" 
-style="border-radius:8px;box-shadow:0 10px 15px -3px rgba(0,0,0,0.1),0 4px 6px -2px rgba(0,0,0,0.05);">
-
 
 ## 👥 Find Me
 
@@ -108,5 +100,4 @@ const me = new Developer({
     </a>
 </p>
 
-<br>
 <br>
