@@ -1,13 +1,9 @@
 # Hey, this is Mateus!
 
-## About
-
 📖 | Aways open to new technologies, ready to learn and improve \
 🎓 | TypeScript + Golang \
 🎵 | Musician in the spare time 🎸🎹🎤\
 💬 | Conversational english, training to achieve fluency
-
-## Technologies
 
 ```javascript
 const me = new Developer({
